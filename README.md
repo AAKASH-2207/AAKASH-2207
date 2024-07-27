@@ -5,7 +5,7 @@
 
 My projects
 -  
-   My Other I'Ds:<!-- --><br/>
+   Reach me with:<!-- --><br/>
    
   <a href="https://www.instagram.com/_akshi_2207/"><img src="https://github.com/user-attachments/assets/dc1d661a-97b9-4ea3-883b-8d234b9ee6ee" width=40px height=40px></img></a>
   <a href="www.linkedin.com/in/akash-upcycles-a35b7326b"><img src= "https://github.com/user-attachments/assets/fe8a7c24-b6c3-406b-a0ca-123ddf70ff58" width = 40px height =40px><img/><a/>
