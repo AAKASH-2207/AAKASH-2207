@@ -1,8 +1,21 @@
 [git]: https://github.com/AAKASH-2207/AAKASH-2207
 [insta]: https://www.instagram.com/_akshi_2207/
 <p align="center"><img src="https://github.com/AAKASH-2207/AAKASH-2207/assets/90674945/36de2f24-2918-4cbc-8c82-1a620dabe5c5" width=25% height=25%></p></img></p>
-<img src=""  align="center">
 
+
+<!-- <p ><img src="https://github.com/AAKASH-2207/AAKASH-2207/blob/main/assets/github-header-image.png" ></p></img></p> -->
+
+I'm a self-taught passionate AI Engineer and A data Scientist from India 🇮🇳
+
+**About me**
+
+- 💼
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 My projects
 -  
    Socials:<!-- --><br/>
