@@ -1,7 +1,7 @@
 [git]: https://github.com/AAKASH-2207/AAKASH-2207
 [insta]: https://www.instagram.com/_akshi_2207/
-# Hello there 
-<img src="https://github.com/AAKASH-2207/AAKASH-2207/assets/90674945/36de2f24-2918-4cbc-8c82-1a620dabe5c5" width=20% height=20%>
+<p align="center"><img src="https://github.com/AAKASH-2207/AAKASH-2207/assets/90674945/36de2f24-2918-4cbc-8c82-1a620dabe5c5" width=25% height=25%></p></img></p>
+<img src=""  align="center">
 
 My projects
 -  
