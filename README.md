@@ -9,13 +9,11 @@ I'm a self-taught passionate AI Engineer and A data Scientist from India 🇮�
 
 **About me**
 
-- 💼
+- 📈 Built a personal neural network from scratch in python, multiple robotics and computer vision projects.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- ❤️ I love programming in different languages and making new projects
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/AAKASH-2207/AAKASH-2207/issues)
 My projects
 -  
    Socials:<!-- --><br/>
