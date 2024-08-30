@@ -15,7 +15,7 @@ I'm a self-taught passionate AI Engineer and A data Scientist from India ðŸ‡®ðŸ‡
 
 - ðŸ’¬ Ask me about anything [here](https://github.com/AAKASH-2207/AAKASH-2207/issues) My projects
 
-![snake animation](https://github.com/AAKASH-2207/AAKASH-2207/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/AAKASH-2207/AAKASH-2207/blob/output/github-contribution-grid-snake2.yml)
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AAKASH-2207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AAKASH-2207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -33,3 +33,11 @@ I'm a self-taught passionate AI Engineer and A data Scientist from India ðŸ‡®ðŸ‡
   <a href="https://gitlab.com/AAKASH-2207"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" ></></a>
 </div>
 
+###
+   Languages:<!-- --><br/>
+<div align=left>
+    <img src="https://github.com/user-attachments/assets/a132f36f-ac7e-4dee-a652-3025d45b6137" width=40px height=40x alt="Python"></img>
+    <img src="https://github.com/user-attachments/assets/1247030b-de9a-470b-b2d2-46013a69a42b" width=40px height=40x alt="Python"></img>
+
+
+</div>
