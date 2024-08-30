@@ -36,8 +36,9 @@ I'm a self-taught passionate AI Engineer and A data Scientist from India ğŸ‡®ğŸ‡
 ###
    Languages:<!-- --><br/>
 <div align=left>
-    <img src="https://github.com/user-attachments/assets/a132f36f-ac7e-4dee-a652-3025d45b6137" width=40px height=40x alt="Python"></img>
-    <img src="https://github.com/user-attachments/assets/1247030b-de9a-470b-b2d2-46013a69a42b" width=40px height=40x alt="Python"></img>
-
+    <code><img src="https://github.com/user-attachments/assets/a132f36f-ac7e-4dee-a652-3025d45b6137" width=40px height=40x alt="Python"></img></code>
+    <code><img src="https://github.com/user-attachments/assets/5d549d34-d669-4ead-9fb4-42ed892dcbcf" width=40px height=40x alt="Java"></img></code>
+    <code><img src="https://github.com/user-attachments/assets/f7545132-eb85-4959-bee8-b7c09e4fc3ed" width=40px height=40px alt="C"></img></code>
+    <code><img src="https://github.com/user-attachments/assets/023c4db0-47c8-414b-b493-163968804572" width=40px height=40px alt="SQL"></img></code>
 
 </div>
